@@ -4,11 +4,11 @@ This project contains a genetic algorithm (GA) scheduler, and a brute force sche
 
 ## Table of Contents
 
-### 1. [Installation](##Installation)
+### 1. [Installation](#Installation)
 
-### 2. [Usage](##Usage)
+### 2. [Usage](#Usage)
 
-### 3. [Code Overview](##Code Overview)
+### 3. [Code Overview](#Code Overview)
 
 ### 4. [Job and Platform Models](###Job and Platform Models)
 
