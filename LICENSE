@@ -16,7 +16,8 @@ Additionally, users of this software for academic research are asked to include 
 to the following publication in any related publications or reference 
 the github page:
 
-[[R]](https://ieeexplore.ieee.org/document/9921580). S. Alshaer, C. Lua, P. Muoka, D. Onwuchekwa and R. Obermaisser,
+
+[ref] S. Alshaer, C. Lua, P. Muoka, D. Onwuchekwa and R. Obermaisser,
  "Graph Neural Networks Based Meta-scheduling in Adaptive Time-Triggered Systems," 
 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA), 
 Stuttgart, Germany, 2022, pp. 1-6, doi: (https://doi.org/10.1109/ETFA52439.2022.9921580).
