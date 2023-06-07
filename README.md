@@ -10,7 +10,7 @@ This project contains a genetic algorithm (GA) scheduler, and a brute force sche
 
 ### 3. [Code Overview](#Code-Overview)
 
-### 4. [Job and Platform Models](#Job-and-Platform Models)
+### 4. [Job and Platform Models](#Job-and-Platform-Models)
 
 ### 5. [Genetic Algorithm Scheduler](#Genetic-Algorithm-Scheduler)
 
