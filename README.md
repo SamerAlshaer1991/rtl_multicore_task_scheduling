@@ -52,3 +52,7 @@ This project is licensed under [Copyrights eu](https://www.copyright.info/copyri
 This project is licensed under MIT license.
 The License is a permissive open-source license that allows you to freely use, modify, and distribute this software for any purpose. It comes without any warranty or guarantee of fitness for any particular purpose. You are responsible for checking and complying with any additional licensing or attribution requirements based on the dependencies or libraries used in this project.
 
+## Contact us
+
+Email: eng.sameralshaer@gmail.com
+linkedin: [Samer Alshaer](https://www.linkedin.com/in/samer-alshaer/)
