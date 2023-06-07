@@ -17,6 +17,9 @@ import numpy as np
 import copy as copy
 import multiprocessing
 import itertools
+import itertools
+import concurrent.futures
+import threading
 
 # Function Definitions
 
@@ -297,9 +300,6 @@ for i in range(num_of_processors):
             route = find_path(Links, sender, receiver)
             routes[(sender, receiver)] = route
 
-import itertools
-import concurrent.futures
-import threading
 
 # Assuming we have num_jobs = 20 and end_systems = [1, 2, 3, 4]
 
