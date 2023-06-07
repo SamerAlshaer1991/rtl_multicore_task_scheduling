@@ -597,8 +597,8 @@ while sample_no != number_of_sample:
         break_count += 1
         if break_count == 300:
             break
-
-    name = "/content/drive/MyDrive/Datasets/10_jobs_GA/"
+    #save as pickle files
+    name = "/dir/10_jobs_GA/"
     name = name + "sample_" + str(sample_no) + ".p"
     sample_no += 1
     pickle.dump(best_gene, open(name, "wb"))
