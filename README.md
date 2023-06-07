@@ -38,7 +38,7 @@ the github page:
 [[Ref]](https://doi.org/10.1109/ETFA52439.2022.9921580) S. Alshaer, C. Lua, P. Muoka, D. Onwuchekwa and R. Obermaisser,
 "Graph Neural Networks Based Meta-scheduling in Adaptive Time-Triggered Systems," 
 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA), 
-Stuttgart, Germany, 2022, pp. 1-6, doi: https://doi.org/10.1109/ETFA52439.2022.9921580.
+Stuttgart, Germany, 2022, pp. 1-6, doi: 10.1109/ETFA52439.2022.9921580.
 
 ## Code Overview
 
