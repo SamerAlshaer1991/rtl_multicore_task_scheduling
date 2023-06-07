@@ -4,36 +4,43 @@ This project contains a genetic algorithm (GA) scheduler, and a brute force sche
 
 **Table of Contents**
 
-Installation
-Usage
-Code Overview
-Job and Platform Models
-Genetic Algorithm Scheduler
-Parallelized Version
-Discord Community
-License
+1.Installation
+2.Usage
+3.Code Overview
+4.Job and Platform Models
+5.Genetic Algorithm Scheduler
+6.Parallelized Version
+7.Discord Community
+8.License
 
 
 **Installation**
+
 TODO: Instructions on how to install and setup your software
 
 **Usage**
+
 TODO: Instructions on how to use your software
 
 **Code Overview**
+
 Job and Platform Models
 The code generates a random directed acyclic graph (DAG) representing tasks or jobs to be executed. Each job has various attributes such as worst-case execution time (WCET), message size for data transfer, precedence relations, and more. The platform model is also defined in the code, with parameters including the number of processors, routers, and their connections. The platform model is designed to tackle distributed memory multi-core architectures aswell. 
 
 **Genetic Algorithm Scheduler**
+
 The genetic algorithm scheduler is the main component of the code. It starts by generating an initial population of sequences (also known as chromosomes), each representing a unique scheduling of jobs. The fitness of each chromosome is evaluated based on a fitness function, which gives higher scores to sequences that lead to shorter total execution times and honor priority constraints. The genetic algorithm then uses selection, crossover, and mutation operations to evolve the population over generations and find an optimal solution.
 
 **Parallelized Version**
+
 A parallelized version of the genetic algorithm scheduler is also included in the code. It uses Python's concurrent.futures library to evaluate the fitness of chromosomes in parallel, leading to a significant speedup in execution time on multi-core systems.
 
 **Discord Community**
+
 Join our Discord server to discuss this project, ask questions, and collaborate with other community members.
 
 **License**
+
 TODO: Your license details here
 
 Please replace the "TODO" parts with information specific to your project. For instance, under the Installation and Usage sections, you would provide step-by-step instructions on how to get your project up and running.
