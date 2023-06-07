@@ -10,7 +10,10 @@ All code in this repository is licensed under the MIT License unless otherwise s
 
 If you use the software or any part of it for academic or research purposes, you are requested to provide proper attribution by citing the following publication:
 
-- [Full Name], [Title of your publication], [DOI of your publication]
+[R] S. Alshaer, C. Lua, P. Muoka, D. Onwuchekwa and R. Obermaisser,
+"Graph Neural Networks Based Meta-scheduling in Adaptive Time-Triggered Systems," 
+2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA), 
+Stuttgart, Germany, 2022, pp. 1-6, doi: 10.1109/ETFA52439.2022.9921580.
 
 In addition, we kindly ask you to reference this GitHub repository in your work. 
 
