@@ -1,1 +1,31 @@
+# Terms of Use
 
+This document outlines the terms of use for the "[Your Project Name]" project hosted on this GitHub repository.
+
+## Licensing
+
+All code in this repository is licensed under the MIT License unless otherwise specified. This license allows for modification and reuse of the code for both personal and commercial use. However, it requires that the original copyright notice and license be included in all copies or substantial portions of the software. Please see the `LICENSE` file in this repository for more details.
+
+## Citation
+
+If you use the software or any part of it for academic or research purposes, you are requested to provide proper attribution by citing the following publication:
+
+- [Full Name], [Title of your publication], [DOI of your publication]
+
+In addition, we kindly ask you to reference this GitHub repository in your work. An example citation might look like this:
+
+- [Your Name]. ([Year]). [Your Project Name]. GitHub repository. Available at: https://github.com/[Your GitHub username]/[repository name]
+
+## Conduct
+
+We strive to foster a welcoming and inclusive community for everyone who wishes to use, contribute to, or discuss this project. Therefore, we expect that users of this repository will respect the rights and dignity of others, and will refrain from any behavior that could be considered harassment or discrimination.
+
+Please note that we reserve the right to remove, edit, or reject issues, comments, commits, code, and other contributions that are not aligned with these Terms of Use, or to temporarily or permanently ban any user for other behaviors that are deemed inappropriate, threatening, offensive, or harmful.
+
+For more details, please refer to the `CODE_OF_CONDUCT.md` file in this repository (if available).
+
+## Disclaimer
+
+While every effort has been made to ensure the accuracy and reliability of this software, it is provided "as is", without warranty of any kind, express or implied, and you agree to use it at your own risk. The authors or copyright holders will not be liable for any claims, damages, or other liability arising from, out of, or in connection with the software.
+
+By using this repository, you are agreeing to these terms.
