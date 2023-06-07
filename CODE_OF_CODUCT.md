@@ -16,7 +16,7 @@ Our project includes a dataset generator which can be used to create datasets fo
 
 ### Discord Channel
 
-For real-time discussions, we have a Discord server where users can discuss various aspects of the project, share their insights, or ask for help. Here is the Discord invite link: (https://discord.gg/S9xYegQw)
+For real-time discussions, we have a [Discord server](https://discord.gg/S9xYegQw) where users can discuss various aspects of the project, share their insights, or ask for help.
 
 ## Our Responsibilities
 
