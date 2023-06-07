@@ -45,7 +45,7 @@ A parallelized version of the genetic algorithm scheduler is also included in th
 
 ## Discord Community
 
-Join our Discord server to discuss this project, ask questions, and collaborate with other community members[Discord](https://discord.gg/S9xYegQw)
+Join our [Discord Server](https://discord.gg/S9xYegQw) to discuss this project, ask questions, and collaborate with other community members
 
 ## License
 This project is licensed under [Copyrights eu](https://www.copyright.info/copyright/IPSO20230606004845DPQ/).
