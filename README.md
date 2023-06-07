@@ -4,21 +4,21 @@ This project contains a genetic algorithm (GA) scheduler, and a brute force sche
 
 ## Table of Contents
 
-1.Installation
+### 1. [Installation](##Installation)
 
-2.Usage
+### 2. [Usage](##Usage)
 
-3.Code Overview
+### 3. [Code Overview](##Code Overview)
 
-4.Job and Platform Models
+### 4. [Job and Platform Models](###Job and Platform Models)
 
-5.Genetic Algorithm Scheduler
+### 5. [Genetic Algorithm Scheduler](###Genetic Algorithm Scheduler)
 
-6.Parallelized Version
+### 6. [Parallelized Version](###Parallelized Version)
 
-7.Discord Community
+### 7. [Discord Community](##Discord Community)
 
-8.License
+### 8. [License](##License)
 
 
 ## Installation
