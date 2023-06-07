@@ -413,9 +413,7 @@ for i in range(num_of_processors):
             route = find_path(Links, sender, receiver)
             routes[(sender, receiver)] = route
 
-import pandas as pd
-import numpy as np
-import copy as copy
+
 # Parameters for the GA scheduler
 POPULATION_SIZE = 1000
 ELITE_SIZE = 5
