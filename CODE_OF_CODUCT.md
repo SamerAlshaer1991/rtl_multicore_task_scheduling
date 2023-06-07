@@ -16,7 +16,7 @@ Our project includes a dataset generator which can be used to create datasets fo
 
 ### Discord Channel
 
-For real-time discussions, we have a Discord server where users can discuss various aspects of the project, share their insights, or ask for help. Here is the Discord invite link: https://discord.gg/[your-discord-link]
+For real-time discussions, we have a Discord server where users can discuss various aspects of the project, share their insights, or ask for help. Here is the Discord invite link: (https://discord.gg/S9xYegQw)
 
 ## Our Responsibilities
 
@@ -24,6 +24,6 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [eng.sameralshaer@gmail.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
