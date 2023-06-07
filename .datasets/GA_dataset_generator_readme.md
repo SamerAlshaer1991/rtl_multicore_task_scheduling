@@ -12,21 +12,29 @@ This script is used to generate datasets using a Genetic Algorithm (GA) schedule
 
 ### check_collision(Current_Router, Current_Router_start, Current_Router_end, overwrite): This function checks for collisions in communication channel allocation and resolves them.
 
-### find_path(connections, start_node, end_node): This function uses Breadth-First Search to find the shortest path between two nodes in the platform model.
+### find_path(connections, start_node, end_node):
+This function uses Breadth-First Search to find the shortest path between two nodes in the platform model.
 
-### generate_chromosome(jobs, end_systems): This function generates a chromosome (schedule) by assigning priorities and processors to the jobs.
+### generate_chromosome(jobs, end_systems):
+This function generates a chromosome (schedule) by assigning priorities and processors to the jobs.
 
-### fitness_function(chromo): This function evaluates the fitness of a chromosome by using the Schedule function to generate a schedule and computing its makespan.
+### fitness_function(chromo):
+This function evaluates the fitness of a chromosome by using the Schedule function to generate a schedule and computing its makespan.
 
-### generate_population(POPULATION_SIZE): This function generates an initial population of chromosomes.
+### generate_population(POPULATION_SIZE):
+This function generates an initial population of chromosomes.
 
-### selection(fitness_values, population): This function performs selection on the population to select the fittest individuals.
+### selection(fitness_values, population):
+This function performs selection on the population to select the fittest individuals.
 
-### mutation(chromosome, mutation_rate): This function applies mutation to a chromosome by randomly changing the assigned processor or swapping priorities between two jobs.
+### mutation(chromosome, mutation_rate):
+This function applies mutation to a chromosome by randomly changing the assigned processor or swapping priorities between two jobs.
 
-### dict_to_dataframe(dictionary): This function converts a dictionary to a Pandas DataFrame.
+### dict_to_dataframe(dictionary):
+This function converts a dictionary to a Pandas DataFrame.
 
-### Schedule(jobs, routes, end_systems, messages, links): This function generates a schedule for the jobs using the platform model and calculates the makespan.
+### Schedule(jobs, routes, end_systems, messages, links):
+This function generates a schedule for the jobs using the platform model and calculates the makespan.
 
 ## Part 1: Platform Model and Job Generation:
 
