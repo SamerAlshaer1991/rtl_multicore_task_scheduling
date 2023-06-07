@@ -5,12 +5,19 @@ This project contains a genetic algorithm (GA) scheduler, and a brute force sche
 **Table of Contents**
 
 1.Installation
+
 2.Usage
+
 3.Code Overview
+
 4.Job and Platform Models
+
 5.Genetic Algorithm Scheduler
+
 6.Parallelized Version
+
 7.Discord Community
+
 8.License
 
 
@@ -37,14 +44,15 @@ A parallelized version of the genetic algorithm scheduler is also included in th
 
 **Discord Community**
 
-Join our Discord server to discuss this project, ask questions, and collaborate with other community members.
+Join our Discord server to discuss this project, ask questions, and collaborate with other community members. https://discord.gg/S9xYegQw
 
 **License**
 
-TODO: Your license details here
 
-Please replace the "TODO" parts with information specific to your project. For instance, under the Installation and Usage sections, you would provide step-by-step instructions on how to get your project up and running.
 
-The Discord link provided is a pseudo link, please replace it with your actual Discord invite link.
+## License
 
-In the License section, you would include information about the type of license that governs the use and distribution of your project. Common licenses for open-source projects include MIT, Apache 2.0, and GPL.
+This project is licensed under https://www.copyright.info/copyright/IPSO20230606004845DPQ/.
+
+The License is a permissive open-source license that allows you to freely use, modify, and distribute this software for any purpose. It comes without any warranty or guarantee of fitness for any particular purpose. You are responsible for checking and complying with any additional licensing or attribution requirements based on the dependencies or libraries used in this project.
+
