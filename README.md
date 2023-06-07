@@ -48,7 +48,7 @@ A parallelized version of the genetic algorithm scheduler is also included in th
 Join our Discord server to discuss this project, ask questions, and collaborate with other community members. https://discord.gg/S9xYegQw
 
 ## License
-This project is licensed under [Copyrights eu] (https://www.copyright.info/copyright/IPSO20230606004845DPQ/).
+This project is licensed under [Copyrights eu](https://www.copyright.info/copyright/IPSO20230606004845DPQ/).
 
 The License is a permissive open-source license that allows you to freely use, modify, and distribute this software for any purpose. It comes without any warranty or guarantee of fitness for any particular purpose. You are responsible for checking and complying with any additional licensing or attribution requirements based on the dependencies or libraries used in this project.
 
