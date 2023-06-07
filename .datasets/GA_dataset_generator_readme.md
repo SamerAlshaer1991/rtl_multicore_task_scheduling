@@ -1,4 +1,4 @@
-**Dataset_generator_v4.ipynb
+**Dataset_generator_v4.ipynb**
 
 This script is used to generate datasets using a Genetic Algorithm (GA) scheduler combined with an application and platform model. It consists of two parts: the first part defines several functions and the platform model, and the second part implements the GA scheduler to generate datasets.
 
@@ -28,7 +28,7 @@ This script is used to generate datasets using a Genetic Algorithm (GA) schedule
 
 *Schedule(jobs, routes, end_systems, messages, links): This function generates a schedule for the jobs using the platform model and calculates the makespan.
 
-**Part 1: Platform Model and Job Generation:
+**Part 1: Platform Model and Job Generation:**
 
 This part initializes the platform model and generates random acyclic Directed Graphs for the jobs. It includes the following steps:
 
@@ -41,7 +41,7 @@ Create the jobs dictionary and messages dictionary using the generated job attri
 Define the GA scheduler parameters such as population size, elite size, mutation rate, maximum generations, and number of threads.
 Generate an initial population of chromosomes using the generate_population function.
 
-**Part 2: Genetic Algorithm Scheduler:
+**Part 2: Genetic Algorithm Scheduler:**
 
 This part implements the GA scheduler to generate datasets. It includes the following steps:
 
