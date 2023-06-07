@@ -1,3 +1,5 @@
+*****Task Scheduling in Distributed Memory Multi-core Real-Time Embedded Systems Simulator***
+
 This project contains a genetic algorithm (GA) scheduler, and a brute force scheduler implementation designed to optimize task scheduling in embedded real-time systems. The program generates a directed acyclic graph of jobs, with each job having unique attributes, and aims to find an optimal sequence of jobs that minimizes total execution time and prioritizes crucial tasks. This system is built using Python and extensively uses the NetworkX library to model the task graph.
 
 **Table of Contents**
